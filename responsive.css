@@ -1,0 +1,29 @@
+
+/* > TABLET */
+@media all and (min-width: 901px) {
+
+    .listing-blog-new .content-item > div {
+        width: 50%;
+    }
+}
+
+/* <= TABLET */
+@media all and (max-width: 900px) {
+
+    .listing-blog-new .listitem-wrapper:before {
+        background-color: #18181877;
+    }
+
+    .listing-blog-new .content-item .field-info {
+        order: 1;
+        margin-top: 20px;
+    }
+}
+
+/* <= MOBILE */
+@media all and (max-width: 600px) {
+
+    .listing-blog-new .content-item > div {
+        width: 100%;
+    }
+}
