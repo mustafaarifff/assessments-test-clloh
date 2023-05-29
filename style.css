@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Midpoint Pro';
+	src: local('MidpointPro-Regular.woff'),
+		url('assets/fonts/MidpointPro-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'ITC Garamond Std';
+	src: local('ITCGaramondStd-Lt.woff'),
+		url('assets/fonts/ITCGaramondStd-Lt.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
